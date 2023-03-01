@@ -7,7 +7,9 @@ The app has 4 main screen, same as netflix itself, Home, Upcoming, Top Search an
 
 
 
-# ![last](https://user-images.githubusercontent.com/75534004/222258588-1fd22fab-3721-415c-86f2-213bfa67b5a6.gif)
+# Uploading NetflixGIF.mp4…
+
+
 
 
 # Used
