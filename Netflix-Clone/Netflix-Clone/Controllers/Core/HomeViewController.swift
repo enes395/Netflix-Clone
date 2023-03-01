@@ -56,6 +56,8 @@ class HomeViewController: UIViewController {
         navigationController?.navigationBar.tintColor = .white
         
     }
+    
+    //Constraintlerin update edileceği yer.
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
         homeFeedTable.frame = view.bounds
