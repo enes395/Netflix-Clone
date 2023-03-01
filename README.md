@@ -7,9 +7,10 @@ The app has 4 main screen, same as netflix itself, Home, Upcoming, Top Search an
 
 
 
-# 
 
 
+
+# ScreenRecord
 https://user-images.githubusercontent.com/75534004/222259476-3234609f-0adf-4405-9fc8-45ebce84729a.mp4
 
 
