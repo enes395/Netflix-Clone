@@ -1,4 +1,5 @@
-# Netflix-Clone
+Netflix iOS Clone
+
 # Tools
 
  
