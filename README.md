@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/75534004/222259476-3234609f-0adf-4405-
 
 • MVVM Pattern
 
-• Programmatically UI
+• ProgrammaticUI
 
 
 
